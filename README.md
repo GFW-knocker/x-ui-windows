@@ -1,7 +1,11 @@
 # x-ui-windows
 **binary executable of v2ray x-ui web panel for windows 64-bit**
 
-forked from
+download from :
+
+https://github.com/kyumath/x-ui-windows/releases
+
+forked from :
 
 https://github.com/HexaSoftwareTech/x-ui  (V0.5.4)
 
